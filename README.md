@@ -8,14 +8,15 @@ The project analyses a historical census dataset to produce evidence-based recom
 
 ## Overview
 
-Using a census Excel dataset (`T2_A24_census5.xlsx`), this project performs end-to-end data wrangling, cleaning, exploratory analysis, and visualisation to answer key demographic and planning questions about a fictional town.
+Using a census Excel dataset (`T2_A24_census5.xlsx`), this project performs end-to-end data wrangling, cleaning, exploratory analysis, and visualisation to answer key demographic and planning questions about a fictional town. A full written report accompanies the notebook with detailed findings and evidence-based recommendations.
 
 ---
 
 ## Project Structure
 
 ```
-├── Final_Project.ipynb     # Main analysis notebook
+├── Final_Project.ipynb                      # Main analysis notebook
+├── Azeez_Abdul-Majeed_Census_Report.pdf     # Full written report with findings & recommendations
 └── README.md
 ```
 
