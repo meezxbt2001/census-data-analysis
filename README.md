@@ -21,8 +21,6 @@ The answers are data-driven — every recommendation is backed by visualisations
 
 Key columns include: House Number, Street, Age, Gender, Marital Status, Relationship to Head of House, Occupation, Infirmity, Religion.
 
-> **Note:** The dataset is not included in this repository as it was provided as part of coursework.
-
 ---
 
 ## Data cleaning
